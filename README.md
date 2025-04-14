@@ -34,6 +34,6 @@ Relevant coursework included a focus on Data Management and Visualization, Predi
 
 -	Utilized Tableau to create a graphical analysis of Bitcoin prices over the past year to identify trends in the volume of transactions on the price of Bitcoin.
 -	Created a prediction model on the price of Bitcoin for the next month within a 95% confidence interval.
--	Formed a presentation of Bitcoin analysis using the Tableau Story Mode and uploaded it to YouTube (Link to video is below).
+-	Formed a presentation of Bitcoin analysis using the Tableau Story Mode and uploaded it to YouTube (Click the image below to link to the video).
 
 [![YouTube Video oJ9ydFJOu00](https://img.youtube.com/vi/oJ9ydFJOu00/maxresdefault.jpg)](https://www.youtube.com/watch?v=oJ9ydFJOu00)
